@@ -1,7 +1,7 @@
 # For Learn
 
-for leran desc
+for learn desc
 
 ## For Learn small font
 
-desc
+desc 
